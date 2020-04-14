@@ -63,7 +63,6 @@ jobs:
           # CONFIG_PACKAGE_luci-app-flowoffload is not set
           # CONFIG_PACKAGE_luci-app-nlbwmon is not set
           # CONFIG_PACKAGE_luci-app-ramfree is not set
-          CONFIG_PACKAGE_luci-app-shadowsocks-libev=y
           # CONFIG_PACKAGE_luci-app-unblockmusic is not set
           # CONFIG_PACKAGE_luci-app-vsftpd is not set
           # CONFIG_PACKAGE_luci-lib-fs is not set
